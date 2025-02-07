@@ -1,0 +1,14 @@
+2024-12-18 17:52:35,623 - INFO - Attempting to connect to server 47.91.121.232 on port 22...
+2024-12-18 17:52:35,888 - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2024-12-18 17:52:36,602 - INFO - Authentication (publickey) failed.
+2024-12-18 17:52:36,865 - INFO - Authentication (password) successful!
+2024-12-18 17:52:36,865 - INFO - Successfully connected to server 47.91.121.232 on port 22
+2024-12-18 17:52:37,425 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-12-18 17:52:37,683 - INFO - Entered /www/wwwroot/ai-rp-server/runtime/logs directory.
+2024-12-18 17:52:37,685 - INFO - Trying to open log file at path: webman-2024-12-18.log
+2024-12-18 17:52:37,813 - INFO - Log file webman-2024-12-18.log opened successfully.
+2024-12-18 17:52:37,813 - INFO - Started monitoring the log file.
+2024-12-19 03:47:06,306 - ERROR - Socket exception: 远程主机强迫关闭了一个现有的连接。 (10054)
+2024-12-19 03:47:06,311 - CRITICAL - An error occurred: Server connection dropped: 
+2024-12-19 03:47:06,687 - INFO - Successfully sent message to Feishu: 黄菠萝提醒您：
+Failed to monitor log file: Server connection dropped: 

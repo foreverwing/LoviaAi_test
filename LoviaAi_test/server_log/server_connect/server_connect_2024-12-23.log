@@ -1,0 +1,143 @@
+2024-12-23 14:35:25,375 - INFO - Checking existing log file server_log/main_monitor\main_monitor_2024-12-23.log for errors...
+2024-12-23 14:35:25,375 - ERROR - Log file server_log/main_monitor\main_monitor_2024-12-23.log not found.
+2024-12-23 14:35:25,375 - INFO - Starting the log file monitoring...
+2024-12-23 14:35:25,375 - INFO - Checking log file for date: 2024-12-23
+2024-12-23 14:35:25,375 - INFO - Attempting to connect to server 47.91.121.232 on port 22...
+2024-12-23 14:35:25,633 - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2024-12-23 14:35:26,340 - INFO - Authentication (publickey) failed.
+2024-12-23 14:35:26,601 - INFO - Authentication (password) successful!
+2024-12-23 14:35:26,602 - INFO - Successfully connected to server 47.91.121.232 on port 22
+2024-12-23 14:35:27,147 - INFO - [chan 0] Opened sftp connection (server version 3)
+2024-12-23 14:35:27,397 - INFO - Entered /www/wwwroot/ai-rp-server/runtime/logs directory.
+2024-12-23 14:35:27,397 - INFO - Trying to open log file at path: webman-2024-12-23.log
+2024-12-23 14:35:27,521 - INFO - Log file webman-2024-12-23.log opened successfully.
+2024-12-23 14:35:27,522 - INFO - Started monitoring the log file webman-2024-12-23.log.
+2024-12-23 14:57:39,056 - INFO - Error detected: [2024-12-23 14:57:40] default.ERROR: 2a0c:9a40:9210:2:be24:11ff:fee0:c0cc POST rptest-api.ignismate.com/chat/img/generate
+2024-12-23 14:57:39,518 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 14:57:40] default.ERROR: 2a0c:9a40:9210:2:be24:11ff:fee0:c0cc POST rptest-api.ignismate.com/chat/img/generate
+2024-12-23 16:07:43,648 - INFO - Error detected: [2024-12-23 16:07:45] default.ERROR: SD start up error: Request failed: Client error: `GET https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/history/418e4804-48ce-46a3-9463-3558b5a7885e` resulted in a `412 Precondition Failed` response:
+2024-12-23 16:07:44,113 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:07:45] default.ERROR: SD start up error: Request failed: Client error: `GET https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/history/418e4804-48ce-46a3-9463-3558b5a7885e` resulted in a `412 Precondition Failed` response:
+2024-12-23 16:18:31,215 - INFO - Error detected: [2024-12-23 16:18:33] default.ERROR: gallery get sd img fail (9eee9495-9712-4d12-91cb-8822cf27ff1b): Img ext error. [] []
+2024-12-23 16:18:31,708 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:18:33] default.ERROR: gallery get sd img fail (9eee9495-9712-4d12-91cb-8822cf27ff1b): Img ext error. [] []
+2024-12-23 16:18:38,583 - INFO - Error detected: [2024-12-23 16:18:40] default.ERROR: gallery get sd img fail (97e73881-aafa-437f-b46b-2dcdbbbb1189): Img ext error. [] []
+2024-12-23 16:18:38,973 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:18:40] default.ERROR: gallery get sd img fail (97e73881-aafa-437f-b46b-2dcdbbbb1189): Img ext error. [] []
+2024-12-23 16:18:50,350 - INFO - Error detected: [2024-12-23 16:18:52] default.ERROR: gallery get sd img fail (97e73881-aafa-437f-b46b-2dcdbbbb1189): Img ext error. [] []
+2024-12-23 16:18:50,746 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:18:52] default.ERROR: gallery get sd img fail (97e73881-aafa-437f-b46b-2dcdbbbb1189): Img ext error. [] []
+2024-12-23 16:18:53,122 - INFO - Error detected: [2024-12-23 16:18:55] default.ERROR: gallery get sd img fail (9eee9495-9712-4d12-91cb-8822cf27ff1b): Img ext error. [] []
+2024-12-23 16:18:53,518 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:18:55] default.ERROR: gallery get sd img fail (9eee9495-9712-4d12-91cb-8822cf27ff1b): Img ext error. [] []
+2024-12-23 16:24:44,755 - INFO - Error detected: [2024-12-23 16:24:46] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:24:45,144 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:24:46] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:24:55,396 - INFO - Error detected: [2024-12-23 16:24:57] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:24:55,788 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:24:57] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:25:17,292 - INFO - Error detected: [2024-12-23 16:25:18] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:25:17,701 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:25:18] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:25:24,577 - INFO - Error detected: [2024-12-23 16:25:25] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:25:24,988 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:25:25] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:25:35,286 - INFO - Error detected: [2024-12-23 16:25:36] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:25:35,693 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:25:36] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:25:54,943 - INFO - Error detected: [2024-12-23 16:25:56] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:25:55,441 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:25:56] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:26:00,066 - INFO - Error detected: [2024-12-23 16:26:01] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:00,463 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:01] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:01,714 - INFO - Error detected: [2024-12-23 16:26:03] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:26:02,148 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:03] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:26:10,152 - INFO - Error detected: [2024-12-23 16:26:12] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:10,560 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:12] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:25,311 - INFO - Error detected: [2024-12-23 16:26:27] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:26:25,702 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:27] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:26:31,461 - INFO - Error detected: [2024-12-23 16:26:33] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:31,848 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:33] default.ERROR: gallery get sd img fail (bcc6cb23-7816-4841-ba1b-45daa35f307d): Img ext error. [] []
+2024-12-23 16:26:44,349 - INFO - Error detected: [2024-12-23 16:26:45] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:26:44,751 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:26:45] default.ERROR: gallery get sd img fail (1b0c4363-0ec0-4eb1-bfcb-8b12860a62fe): Img ext error. [] []
+2024-12-23 16:27:06,252 - INFO - Error detected: [2024-12-23 16:27:08] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:27:06,777 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:27:08] default.ERROR: gallery get sd img fail (f77c73a4-da35-4f96-9ad9-dae6b89156c2): Img ext error. [] []
+2024-12-23 16:28:54,956 - INFO - Error detected: [2024-12-23 16:28:56] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:28:55,408 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:28:56] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:04,534 - INFO - Error detected: [2024-12-23 16:29:06] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:04,946 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:29:06] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:24,194 - INFO - Error detected: [2024-12-23 16:29:26] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:24,610 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:29:26] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:57,359 - INFO - Error detected: [2024-12-23 16:29:59] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:29:57,774 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:29:59] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:30:53,025 - INFO - Error detected: [2024-12-23 16:30:54] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:30:53,422 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:30:54] default.ERROR: gallery get sd img fail (d31b46f6-f804-4f62-aa1f-1048e071678c): Img ext error. [] []
+2024-12-23 16:36:06,337 - INFO - Error detected: [2024-12-23 16:36:08] default.ERROR: SD img task error: cURL error 52: Empty reply from server (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/api/run [] []
+2024-12-23 16:36:06,918 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:36:08] default.ERROR: SD img task error: cURL error 52: Empty reply from server (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/api/run [] []
+2024-12-23 16:42:52,138 - INFO - Error detected: [2024-12-23 16:42:53] default.ERROR: SD start up error: Request failed: Client error: `GET https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/history/51c80193-faf3-4dcf-847f-413999fb425f` resulted in a `412 Precondition Failed` response:
+2024-12-23 16:42:52,562 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:42:53] default.ERROR: SD start up error: Request failed: Client error: `GET https://photo-c-comfyui-ngnyrtovlf.cn-hangzhou.fcapp.run/history/51c80193-faf3-4dcf-847f-413999fb425f` resulted in a `412 Precondition Failed` response:
+2024-12-23 16:43:20,820 - INFO - Error detected: [2024-12-23 16:43:22] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:43:21,222 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:43:22] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:43:31,472 - INFO - Error detected: [2024-12-23 16:43:33] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:43:31,853 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:43:33] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:43:52,232 - INFO - Error detected: [2024-12-23 16:43:53] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:43:52,854 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:43:53] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:44:23,358 - INFO - Error detected: [2024-12-23 16:44:24] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:44:23,748 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:44:24] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:45:04,382 - INFO - Error detected: [2024-12-23 16:45:05] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:45:04,800 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:45:05] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:45:56,686 - INFO - Error detected: [2024-12-23 16:45:58] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:45:57,078 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:45:58] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:46:56,843 - INFO - Error detected: [2024-12-23 16:46:58] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:46:57,221 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:46:58] default.ERROR: gallery get sd img fail (12e3d4e3-0f10-4460-96ea-71e304ac2a9a): Img ext error. [] []
+2024-12-23 16:50:16,516 - INFO - Error detected: [2024-12-23 16:50:18] default.ERROR: gallery get sd img fail (58b1d10a-b0fc-40e5-b9c0-652b7e5f7bd8): Img ext error. [] []
+2024-12-23 16:50:16,956 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:50:18] default.ERROR: gallery get sd img fail (58b1d10a-b0fc-40e5-b9c0-652b7e5f7bd8): Img ext error. [] []
+2024-12-23 16:55:10,862 - INFO - Error detected: [2024-12-23 16:55:12] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 16:55:11,277 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:55:12] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 16:55:21,529 - INFO - Error detected: [2024-12-23 16:55:23] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 16:55:22,003 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:55:23] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 16:55:44,635 - INFO - Error detected: [2024-12-23 16:55:45] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 16:55:45,060 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 16:55:45] default.ERROR: gallery get sd img fail (b211929b-1729-4a4c-8fe9-39ca26e6619f): Img ext error. [] []
+2024-12-23 17:16:54,397 - INFO - Error detected: [2024-12-23 17:16:56] default.ERROR: gallery get sd img fail (1d5cbdbe-672c-4345-a74f-241d817e6ae0): Img ext error. [] []
+2024-12-23 17:16:54,848 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:16:56] default.ERROR: gallery get sd img fail (1d5cbdbe-672c-4345-a74f-241d817e6ae0): Img ext error. [] []
+2024-12-23 17:17:06,225 - INFO - Error detected: [2024-12-23 17:17:07] default.ERROR: gallery get sd img fail (1d5cbdbe-672c-4345-a74f-241d817e6ae0): Img ext error. [] []
+2024-12-23 17:17:06,624 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:17:07] default.ERROR: gallery get sd img fail (1d5cbdbe-672c-4345-a74f-241d817e6ae0): Img ext error. [] []
+2024-12-23 17:28:12,944 - INFO - Error detected: [2024-12-23 17:28:15] default.ERROR: gallery get sd img fail (374964a8-e0e4-4ea0-a3a3-ef26269a7cab): Img ext error. [] []
+2024-12-23 17:28:13,417 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:28:15] default.ERROR: gallery get sd img fail (374964a8-e0e4-4ea0-a3a3-ef26269a7cab): Img ext error. [] []
+2024-12-23 17:29:49,179 - INFO - Error detected: [2024-12-23 17:29:50] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
+2024-12-23 17:29:49,593 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:29:50] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
+2024-12-23 17:29:58,719 - INFO - Error detected: [2024-12-23 17:30:00] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
+2024-12-23 17:29:59,153 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:30:00] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
+2024-12-23 17:30:18,405 - INFO - Error detected: [2024-12-23 17:30:20] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
+2024-12-23 17:30:18,823 - INFO - Successfully sent message to Feishu: »Æ²¤ÂÜÌáÐÑÄú£º
+[2024-12-23 17:30:20] default.ERROR: gallery get sd img fail (9f27f792-c875-4e6c-9186-031730361c66): Img ext error. [] []
